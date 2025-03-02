@@ -1,2 +1,2 @@
 # Mini-CSS-Project
-created a sidebar menu using checkbox as a button
+Created a Sidebar Menu Using Checkbox As a Button
